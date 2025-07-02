@@ -36,3 +36,5 @@ const func2 = g5.next().value;
 
 func1();
 func2();
+
+console.log("Hello World");
